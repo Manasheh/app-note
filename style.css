@@ -66,6 +66,8 @@ body {
     .heading {
         font-size: 25px;
         letter-spacing: 2px;
+        border: 2px solid darkblue;
+        padding: 15px;
     }
     .info-text {
         font-size: 17px;
