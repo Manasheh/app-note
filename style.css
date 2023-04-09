@@ -68,7 +68,8 @@ body {
         letter-spacing: 2px;
         border: 3px solid darkblue;
         padding: 12px;
-        background-color: rgb(241, 248, 248);
+        /* background-color: rgb(241, 248, 248); */
+        background-color: rgba(255,255,255,0.8);
     }
     .info-text {
         font-size: 17px;
